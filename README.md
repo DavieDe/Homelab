@@ -1,0 +1,2 @@
+# Homelab
+General documentation
