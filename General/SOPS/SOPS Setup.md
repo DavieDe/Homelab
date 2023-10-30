@@ -7,7 +7,7 @@
 - Download from <https://github.com/getsops/sops/releases>
 - Follow the installation (Use Brew install sops)
 
-- install gnupg
+- install age
 
 ## How to use
 - make sure the .sops.yaml file is in the root of the repo
