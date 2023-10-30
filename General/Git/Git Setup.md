@@ -1,9 +1,12 @@
 # Git Setup
 
+## See SSH Setup
 - Set up SSH first
 
+## Quick Refrence
 - git clone, add, commit, push, checkout
 
+## Git config setup
 - set git username and user email
 - git config --global user.email "git email"
 - for git email you need to set your private email
